@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Swarno-Coder
+- 🚀 I'm a FSD, Python Developer & Graphic Designer
 - 👀 I’m interested in AI/ML & Blockchain Technology
 - 🌱 I’m currently learning BS in CS at Calcutta University
-- 💞️ I’m looking to collaborate on Twitter
+- 💞️ I’m looking to collaborate on Twitter & LinkedIn
 - 📫 Reach Me: swarnotuanag2016+official@gmail.com
 
 <!---
