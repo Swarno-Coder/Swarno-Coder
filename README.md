@@ -1,5 +1,5 @@
 
-  👋 Hi, I’m @[Swarno-Coder](https://github.com/Swarno-Coder)
+# 👋 Hi, I’m [Swarno-Coder](https://github.com/Swarno-Coder)
 - 🚀 I'm a Computer Vision Engineer, Python Developer & Graphic Designer
 - 👀 I’m interested in AI/ML, AR/VR & Blockchain Technology
 - 🌱 I’m currently learning BS in CS at Calcutta University
