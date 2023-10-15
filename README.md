@@ -1,5 +1,8 @@
 
 # 👋 Hi, I’m [Swarno-Coder](https://github.com/Swarno-Coder)
+---
+[![An image of @swarnocoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swarnocoder)](https://holopin.io/@swarnocoder)
+---
 - 🚀 I'm a Computer Vision Engineer, Python Developer & Graphic Designer
 - 👀 I’m interested in AI/ML, AR/VR & Blockchain Technology
 - 🌱 I’m currently learning BS in CS at Calcutta University
