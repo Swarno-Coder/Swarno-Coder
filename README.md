@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m [Swarno-Coder](https://github.com/Swarno-Coder)
 ---
-2023 Hacktoberfest Winner 🥇 
+2023 & 2024 Hacktoberfest Winner 🥇 
 [![An image of @swarnocoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swarnocoder)](https://holopin.io/@swarnocoder)
 ---
 # About Me 😊👋
